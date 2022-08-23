@@ -1,6 +1,7 @@
 import React from 'react'
 
 function Home(props) {
+    console.warn("home",props)
     return (
         <>
         <div>
